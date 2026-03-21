@@ -1,0 +1,21 @@
+{
+  "version": "0.13.6-alpha",
+  "channel": "alpha",
+  "published_at": "2026-03-21T03:51:34Z",
+  "git_ref": "v0.13.6-alpha",
+  "git_commit": "5f420ba3176e449e6c2723be03f805a5a5084040",
+  "assets": {
+    "aarch64-apple-darwin": {
+      "url": "https://github.com/galaxy-sec/galaxy-flow/releases/download/v0.13.6-alpha/galaxy-flow-v0.13.6-alpha-aarch64-apple-darwin.tar.gz",
+      "sha256": "8869d532e2169727b32506e5b0569b957d429c62c8a56cbebafb88be9edc05dc"
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxy-sec/galaxy-flow/releases/download/v0.13.6-alpha/galaxy-flow-v0.13.6-alpha-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "c34240b2dbfb1f927cb62fefd547ebcf0687153da5bcd23ea5899ad9a85c2d75"
+    },
+    "x86_64-unknown-linux-musl": {
+      "url": "https://github.com/galaxy-sec/galaxy-flow/releases/download/v0.13.6-alpha/galaxy-flow-v0.13.6-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "f8ab4a02da35a36b7dbc6796a8003dac8108ba971878b1804e7ca399e78a52ba"
+    }
+  }
+}
