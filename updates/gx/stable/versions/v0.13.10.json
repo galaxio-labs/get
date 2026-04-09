@@ -1,0 +1,21 @@
+{
+  "version": "0.13.10",
+  "channel": "stable",
+  "published_at": "2026-04-09T16:09:46Z",
+  "git_ref": "v0.13.10",
+  "git_commit": "c6bcffecbf400c8a5170c264b0dbbf703219e31c",
+  "assets": {
+    "aarch64-apple-darwin": {
+      "url": "https://github.com/galaxio-labs/galaxy-flow/releases/download/v0.13.10/galaxy-flow-v0.13.10-aarch64-apple-darwin.tar.gz",
+      "sha256": "9644db073c18cf796d0a9d0dd7e6e5d2520558077405707a570d8c039e4af0b6"
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxio-labs/galaxy-flow/releases/download/v0.13.10/galaxy-flow-v0.13.10-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "59afb28529f0a6927fef9bb31d029ca5ad5d15f878958d33373163c55907cfd5"
+    },
+    "x86_64-unknown-linux-musl": {
+      "url": "https://github.com/galaxio-labs/galaxy-flow/releases/download/v0.13.10/galaxy-flow-v0.13.10-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "c611ed6eb263cd70a17eeb3b21d3be32f3f83036dce88586bd1c7130f8fbb049"
+    }
+  }
+}
