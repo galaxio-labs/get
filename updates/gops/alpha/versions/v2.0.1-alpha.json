@@ -1,0 +1,21 @@
+{
+  "version": "2.0.1-alpha",
+  "channel": "alpha",
+  "published_at": "2026-09-29T07:13:26Z",
+  "git_ref": "v2.0.1-alpha",
+  "git_commit": "e6ecd4879e9814c9b8ca00689f4d14d8e840dee8",
+  "assets": {
+    "aarch64-apple-darwin": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.0.1-alpha/galaxy-ops-v2.0.1-alpha-aarch64-apple-darwin.tar.gz",
+      "sha256": "96d4cd62a1d3c753361382e1487292fdcc0b5cad6bcf11bf388725f93d1e788f"
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.0.1-alpha/galaxy-ops-v2.0.1-alpha-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "0d9a8392a030f9b1399b23e94cf78996661a5798f721a005647c267167afee5e"
+    },
+    "x86_64-unknown-linux-musl": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.0.1-alpha/galaxy-ops-v2.0.1-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "4e58d15e5e1045fb9023354cf8a53373838307aa3f0ba91c546612062dd3012f"
+    }
+  }
+}
