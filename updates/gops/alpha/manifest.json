@@ -1,29 +1,29 @@
 {
-  "version": "2.2.3-alpha",
+  "version": "2.3.0-alpha",
   "channel": "alpha",
-  "published_at": "2026-10-10T05:05:39Z",
-  "git_ref": "v2.2.3-alpha",
-  "git_commit": "36dad5b36cb8c1430adc74868690458fc6b9dd40",
+  "published_at": "2026-10-12T04:50:48Z",
+  "git_ref": "v2.3.0-alpha",
+  "git_commit": "382b5bd6560a5daaf52eb74f18730dedff34dfbf",
   "assets": {
     "aarch64-apple-darwin": {
-      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.2.3-alpha/galaxy-ops-v2.2.3-alpha-aarch64-apple-darwin.tar.gz",
-      "sha256": "b2078b016d53c29438a193b08b5efccbbd1465a7d5b9cc086e4cbe360882ba46"
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.3.0-alpha/galaxy-ops-v2.3.0-alpha-aarch64-apple-darwin.tar.gz",
+      "sha256": "a615eeb31f5347264eaf2a74c1dcf3a055ba52445ae784fffdce3ac8a405253c"
     },
     "aarch64-unknown-linux-musl": {
-      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.2.3-alpha/galaxy-ops-v2.2.3-alpha-aarch64-unknown-linux-musl.tar.gz",
-      "sha256": "3efcddfdd56b782eb083922f80f15cc4239b8e4b4d64935a30f18bd922c1f17a"
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.3.0-alpha/galaxy-ops-v2.3.0-alpha-aarch64-unknown-linux-musl.tar.gz",
+      "sha256": "7f3551d50031a3f0fedd1c3b0ae7b6c6d4cb265d763a9aaebed31a5beea7cf39"
     },
     "x86_64-unknown-linux-musl": {
-      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.2.3-alpha/galaxy-ops-v2.2.3-alpha-x86_64-unknown-linux-musl.tar.gz",
-      "sha256": "ea00f845329539c3ba3e77908ec00e3241a830bb4708609cd7fa11f7a874c78e"
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.3.0-alpha/galaxy-ops-v2.3.0-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "6868ccc9333be524300605cc42e913238046e64d5650ed3237de1a580fb286a3"
     },
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.2.3-alpha/galaxy-ops-v2.2.3-alpha-x86_64-unknown-linux-musl.tar.gz",
-      "sha256": "ea00f845329539c3ba3e77908ec00e3241a830bb4708609cd7fa11f7a874c78e"
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.3.0-alpha/galaxy-ops-v2.3.0-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "6868ccc9333be524300605cc42e913238046e64d5650ed3237de1a580fb286a3"
     },
     "aarch64-unknown-linux-gnu": {
-      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.2.3-alpha/galaxy-ops-v2.2.3-alpha-aarch64-unknown-linux-musl.tar.gz",
-      "sha256": "3efcddfdd56b782eb083922f80f15cc4239b8e4b4d64935a30f18bd922c1f17a"
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.3.0-alpha/galaxy-ops-v2.3.0-alpha-aarch64-unknown-linux-musl.tar.gz",
+      "sha256": "7f3551d50031a3f0fedd1c3b0ae7b6c6d4cb265d763a9aaebed31a5beea7cf39"
     }
   }
 }
