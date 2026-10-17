@@ -1,0 +1,29 @@
+{
+  "version": "0.17.1-alpha",
+  "channel": "alpha",
+  "published_at": "2026-10-17T15:55:14Z",
+  "git_ref": "v0.17.1-alpha",
+  "git_commit": "76eb44c1038778786f9117643672f811b4f2c7f9",
+  "assets": {
+    "aarch64-apple-darwin": {
+      "url": "https://github.com/galaxio-labs/galaxy-flow/releases/download/v0.17.1-alpha/galaxy-flow-v0.17.1-alpha-aarch64-apple-darwin.tar.gz",
+      "sha256": "9042b2cc6784108fa673415c397534f61217a47ffe04b8d27fdd719874dfebd4"
+    },
+    "aarch64-unknown-linux-musl": {
+      "url": "https://github.com/galaxio-labs/galaxy-flow/releases/download/v0.17.1-alpha/galaxy-flow-v0.17.1-alpha-aarch64-unknown-linux-musl.tar.gz",
+      "sha256": "c8aaa41e905de1a5b0dd7ea64226ad339a8fe7b5c7fcd594421cad580adc36e8"
+    },
+    "x86_64-unknown-linux-musl": {
+      "url": "https://github.com/galaxio-labs/galaxy-flow/releases/download/v0.17.1-alpha/galaxy-flow-v0.17.1-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "d87cc090321e7339b747e6b348f057bc49beff48e05f4a1471ea373ebc5765b2"
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxio-labs/galaxy-flow/releases/download/v0.17.1-alpha/galaxy-flow-v0.17.1-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "d87cc090321e7339b747e6b348f057bc49beff48e05f4a1471ea373ebc5765b2"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxio-labs/galaxy-flow/releases/download/v0.17.1-alpha/galaxy-flow-v0.17.1-alpha-aarch64-unknown-linux-musl.tar.gz",
+      "sha256": "c8aaa41e905de1a5b0dd7ea64226ad339a8fe7b5c7fcd594421cad580adc36e8"
+    }
+  }
+}
