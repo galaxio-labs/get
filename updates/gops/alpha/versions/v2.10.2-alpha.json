@@ -1,0 +1,29 @@
+{
+  "version": "2.10.2-alpha",
+  "channel": "alpha",
+  "published_at": "2026-10-23T07:50:14Z",
+  "git_ref": "v2.10.2-alpha",
+  "git_commit": "36a94407d5e60b4f7b1b7cefb5efd8f0b5658096",
+  "assets": {
+    "aarch64-apple-darwin": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.2-alpha/galaxy-ops-v2.10.2-alpha-aarch64-apple-darwin.tar.gz",
+      "sha256": "702d68aa807b1535a062179ae69a8054df178a11966938e8317e5ce4c8f60add"
+    },
+    "aarch64-unknown-linux-musl": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.2-alpha/galaxy-ops-v2.10.2-alpha-aarch64-unknown-linux-musl.tar.gz",
+      "sha256": "a7bd18273b87d56669c4943b66d88742db906c9850261b9afe6161dcfb8e37ef"
+    },
+    "x86_64-unknown-linux-musl": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.2-alpha/galaxy-ops-v2.10.2-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "d0af519c7942513be6532e9fd11851106cde6dc69668addc617d44a035ff4126"
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.2-alpha/galaxy-ops-v2.10.2-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "d0af519c7942513be6532e9fd11851106cde6dc69668addc617d44a035ff4126"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.2-alpha/galaxy-ops-v2.10.2-alpha-aarch64-unknown-linux-musl.tar.gz",
+      "sha256": "a7bd18273b87d56669c4943b66d88742db906c9850261b9afe6161dcfb8e37ef"
+    }
+  }
+}
