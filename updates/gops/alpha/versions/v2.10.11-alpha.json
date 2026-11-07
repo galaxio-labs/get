@@ -1,0 +1,29 @@
+{
+  "version": "2.10.11-alpha",
+  "channel": "alpha",
+  "published_at": "2026-11-07T10:37:52Z",
+  "git_ref": "v2.10.11-alpha",
+  "git_commit": "0a291b83c5eb8de7427cb1a395fbf3cd786c3fa3",
+  "assets": {
+    "aarch64-apple-darwin": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.11-alpha/galaxy-ops-v2.10.11-alpha-aarch64-apple-darwin.tar.gz",
+      "sha256": "93cf480c996fea08e137fc0f46abe758c33ebeaf86aa8a8bfd45ee0885787b06"
+    },
+    "aarch64-unknown-linux-musl": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.11-alpha/galaxy-ops-v2.10.11-alpha-aarch64-unknown-linux-musl.tar.gz",
+      "sha256": "b99155208af47856410da7311a59a1a2024fb6e7e7bc3c2acb3a333d687ce75e"
+    },
+    "x86_64-unknown-linux-musl": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.11-alpha/galaxy-ops-v2.10.11-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "5bbdae2bdcc3792aee18d0c1b724c6f1b68f6a97de957b2cad9d989380546f41"
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.11-alpha/galaxy-ops-v2.10.11-alpha-x86_64-unknown-linux-musl.tar.gz",
+      "sha256": "5bbdae2bdcc3792aee18d0c1b724c6f1b68f6a97de957b2cad9d989380546f41"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/galaxio-labs/galaxy-ops/releases/download/v2.10.11-alpha/galaxy-ops-v2.10.11-alpha-aarch64-unknown-linux-musl.tar.gz",
+      "sha256": "b99155208af47856410da7311a59a1a2024fb6e7e7bc3c2acb3a333d687ce75e"
+    }
+  }
+}
